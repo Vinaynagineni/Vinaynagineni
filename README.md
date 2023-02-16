@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinaynagineni
 - 👀 I’m interested in fresher openings
-- 🌱 I’m currently learning python
+- 🌱 I’m donr certification on python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me vinaysayz98@gmail.com
 
